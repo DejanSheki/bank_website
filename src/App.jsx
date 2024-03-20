@@ -6,6 +6,7 @@ import Info from './components/Info';
 import Explore from './components/Explore';
 import ChoosUs from './components/ChooseUs';
 import Carousel from './components/Carousel';
+import Testimonials from './components/Testimonials';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <Explore />
       <ChoosUs />
       <Carousel />
+      <Testimonials />
     </div>
   )
 }
