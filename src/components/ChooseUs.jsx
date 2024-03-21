@@ -5,7 +5,7 @@ import security from '../assets/security.svg';
 
 const ChoosUs = () => {
     return (
-        <section>
+        <section className="px-24">
             <h2 className="font-poppins font-semibold text-[82px] leading-[124px] text-dark-turquoise">Why Choose Us</h2>
             <p className="font-poppins font-light text-2xl leading-8 text-[#2c2c2c]">Opt for secure, intuitive online banking with 24/7 accessibility, innovative features, and personalized service.</p>
             <div className="grid grid-cols-2 grid-rows-2 gap-28 mt-20">
